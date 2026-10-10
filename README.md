@@ -36,8 +36,8 @@ diagnose → brief → produce, in one session.
 **Claude Code (one command):**
 
 ```
-/plugin marketplace add Yuzzyuk/marketing-os
-/plugin install marketing-os@marketing-os
+/plugin marketplace add axiomdp/marketing-os
+/plugin install marketing-os@axiom-marketing-os
 ```
 
 **Claude (web/desktop):** Settings → Skills → + → upload `marketing-os.zip`
